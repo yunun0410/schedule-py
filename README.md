@@ -37,7 +37,9 @@ CREATE TABLE IF NOT EXISTS schedules (
 );
 ```
 
-⚙️ 설치 및 실행 방법
+---
+
+## ⚙️ 설치 및 실행 방법
 1. 필요 패키지 설치
 bash
 복사
