@@ -35,6 +35,8 @@ CREATE TABLE IF NOT EXISTS schedules (
     end_datetime DATETIME,
     is_completed BOOLEAN DEFAULT FALSE
 );
+```
+
 ⚙️ 설치 및 실행 방법
 1. 필요 패키지 설치
 bash
